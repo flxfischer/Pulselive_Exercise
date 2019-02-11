@@ -1,5 +1,5 @@
 //
-//  PulseExerciseTests.swift
+//  ArticleListUseCaseTests.swift
 //  PulseExerciseTests
 //
 //  Created by Felix Fischer on 09.02.19.
@@ -7,9 +7,8 @@
 //
 
 import XCTest
-@testable import PulseExercise
 
-class PulseExerciseTests: XCTestCase {
+class ArticleListUseCaseTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
